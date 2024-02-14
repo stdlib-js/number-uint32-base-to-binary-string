@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-to-binary-string@esm/index.mjs';
+import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-to-binary-string@v0.2.0-esm/index.mjs';
 ```
 
 #### toBinaryString( x )
@@ -107,7 +107,7 @@ str = toBinaryString( a[2] );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Uint32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint32@esm/index.mjs';
-import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-to-binary-string@esm/index.mjs';
+import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-to-binary-string@v0.2.0-esm/index.mjs';
 
 var x;
 var y;
