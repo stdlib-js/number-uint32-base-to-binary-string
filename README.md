@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-to-binary-string@deno/mod.js';
+import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-to-binary-string@v0.2.2-deno/mod.js';
 ```
 
 #### toBinaryString( x )
@@ -102,7 +102,7 @@ str = toBinaryString( a[2] );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Uint32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint32@deno/mod.js';
-import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-to-binary-string@deno/mod.js';
+import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-to-binary-string@v0.2.2-deno/mod.js';
 
 var x;
 var y;
